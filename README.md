@@ -13,6 +13,7 @@ In this project, I tried to curate the ultimate global cricket team by analyzing
  ## Criteria for Selection
 
 - __Openers__
+  
 | Parameter  | Description | Criterion|
  ------------- | ------------- |-------|
 | Batting Average   | Average runs scored in an innings   | > 30 |
@@ -22,6 +23,7 @@ In this project, I tried to curate the ultimate global cricket team by analyzing
  | Batting Position  |Order in which the batter played| <4 |
 
 - __Middle Order__
+  
  | Parameter  | Description | Criterion|
  ------------- | ------------- |-------|
 | Batting Average   | Average runs scored in an innings   | > 40 |
@@ -29,7 +31,9 @@ In this project, I tried to curate the ultimate global cricket team by analyzing
 | Innings Batted|  Total Innings batted |> 3
 | Avg Balls faced| Average balls faced by the batter | > 20|
 | Batting Position  |Order in which the batter played| >4 |
+
 - __Finisher__
+  
  | Parameter  | Description | Criterion|
  ------------- | ------------- |-------|
 | Batting Average   | Average runs scored in an innings   | > 25 |
@@ -38,7 +42,9 @@ In this project, I tried to curate the ultimate global cricket team by analyzing
 | Avg Balls faced| Average balls faced by the batter | > 12|
 | Batting Position  |Order in which the batter played| >4 |
 | Innings Bowled  |Total innings bowled by the bowler| >1 |
+
 - __All-rounder/Lower order__
+- 
  | Parameter  | Description | Criterion|
  ------------- | ------------- |-------|
 | Batting Average   | Average runs scored in an innings   | > 15 |
@@ -50,6 +56,7 @@ In this project, I tried to curate the ultimate global cricket team by analyzing
 | Bowling Strike Rate |Avg number of balls required to take a wicket| <20 |
 
 - __Specialist Fast Bowler__
+
 | Parameter  | Description | Criterion|
  ------------- | ------------- |-------|
 | Innings Bowled  |Total innings bowled by the bowler| >4 |
@@ -68,13 +75,11 @@ In this project, I tried to curate the ultimate global cricket team by analyzing
 ## Final List
 - The selected team has a batting average of 39.60 and a strike rate of 154.54, with a bowling average of 14.12 and an economy rate of 6.47, along with a dot ball percentage of 41.15. They are capable of scoring at least 180 runs and defending at least 150 runs.
 
-```bash
 ![image](https://github.com/AyeshaTehreeem/FindingTheBest11Players/assets/80467667/50cb6626-6537-4d00-9cb9-de51ae67e206)
 ![image](https://github.com/AyeshaTehreeem/FindingTheBest11Players/assets/80467667/1402300b-ca03-45db-b0ff-f98fd725297b)
 ![image](https://github.com/AyeshaTehreeem/FindingTheBest11Players/assets/80467667/abeb4905-e4ce-4b9a-a2f5-58ee9c734934)
 
 
 
-```
 
 
