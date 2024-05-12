@@ -44,7 +44,7 @@ In this project, I tried to curate the ultimate global cricket team by analyzing
 | Innings Bowled  |Total innings bowled by the bowler| >1 |
 
 - __All-rounder/Lower order__
-- 
+
  | Parameter  | Description | Criterion|
  ------------- | ------------- |-------|
 | Batting Average   | Average runs scored in an innings   | > 15 |
@@ -74,6 +74,7 @@ In this project, I tried to curate the ultimate global cricket team by analyzing
 
 ## Final List
 - The selected team has a batting average of 39.60 and a strike rate of 154.54, with a bowling average of 14.12 and an economy rate of 6.47, along with a dot ball percentage of 41.15. They are capable of scoring at least 180 runs and defending at least 150 runs.
+- [Check the report here ](https://github.com/AyeshaTehreeem/FindingTheBest11Players/blob/main/Cricket%20Data%20Analytics/t20_cric_analysis.pbix)
 
 ![image](https://github.com/AyeshaTehreeem/FindingTheBest11Players/assets/80467667/9427da49-600a-44b3-b259-ab390ea8c464)
 
